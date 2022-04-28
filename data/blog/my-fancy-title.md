@@ -5,6 +5,7 @@ tags: ['hello']
 draft: true
 summary:
 images: []
+authors: ['ion']
 ---
 
 Draft post which should not display
