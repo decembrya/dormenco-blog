@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'dormenco.net',
   author: 'Iulia & Ion Dormenco',
-  headerTitle: '',
+  headerTitle: 'dormenco.net',
   description: 'A software development blog from a family of geeks',
   language: 'en-us',
   theme: 'dark', // system, dark or light
