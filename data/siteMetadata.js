@@ -10,10 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'contact@dormenco.net',
+  emailIulia: 'iulia@dormenco.net',
+  emailIon: 'ion@dormenco.net',
   githubIulia: 'https://github.com/decembrya',
   githubIon: 'https://github.com/idormenco',
-  linkedin: 'https://www.linkedin.com',
+  linkedinIulia: 'https://www.linkedin.com/in/iulia-dormenco-44015637/',
+  linkedinIon: 'https://www.linkedin.com/in/ion-dormenco/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
